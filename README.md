@@ -26,4 +26,4 @@ Name: SpottyOS
 Created: June 12th, 2019
 Creator: Lorrin (youtube.com/c/lorrinofficial)
 
-**If you want to ask questions or you have something that you have made in this OS that you dont want, Email me at lorrin(dot)shepard@gmail.com and I will remove/add it!**
+**If you want to ask questions or you have something that you have made in this OS that you dont want, Email me at lorrin.shepard@gmail.com and I will remove/add it!**
